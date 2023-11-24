@@ -1,4 +1,4 @@
-# poolGateTestRun
+# Pool Gate Test Run
 
 This project is a test run to evaluate the viability of using YOLOv8 and an existing security camera to determine if a pool gate is in the open or closed position.
 
